@@ -1,5 +1,6 @@
 # Network-Monitoring-Tool
-Network monitoring tool is a tool which helps you in to the network packet analysis
+Network monitoring tool is a tool which helps you in to the network packet analysis 
+(Installation script is under development...now you can install it manually run and test) 
 
 ![Image of networ](https://www.flowmon.com/getattachment/Home/Tabs/Network-Monitoring-Visibility/product-img-monitoring.png)
 
@@ -37,3 +38,4 @@ the total content of the packets.
 - [x] `You will see the login page of NMT, It'll ask for ID and Password then you need to setup Database.`
 
 ## Database setup
+DB setup info will be update soon...
